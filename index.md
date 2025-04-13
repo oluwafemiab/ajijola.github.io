@@ -121,25 +121,25 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ## 🚀 Featured Projects
 
-### 🔐 [Development of Email Security Gateway](https://github.com/oluwafemiab/email-security-gateway)
+### 🔐 [Development of Email Security Gateway](https://oluwafemiab.github.io/ajijola.github.io/projects/email-security-gateway)
 
 - Built using: **Axigen Mail Server, Proxmox Mail Gateway, GoPhishing, PGP, Thunderbolt**
 - Integrated PGP email encryption, phishing simulation, and secure routing
 - Designed to help SMEs improve email security posture
 
-### 🛡️ [Comparative Honeypot Analysis](https://github.com/oluwafemiab/honeypot-comparison)
+### 🛡️ [Comparative Honeypot Analysis](https://oluwafemiab.github.io/ajijola.github.io/projects/honeypot-compaison)
 
 - Tools: **Heralding**, **MySQL-Honeypotd**, **HoneyDB**
 - Comparative study to evaluate logging efficiency, ease of deployment, and detection value
 - Outcome: Actionable insights for choosing honeypots for targeted cyber defense
 
-### 🧲 [Honeypot System with NGFW](https://github.com/oluwafemiab/ngfw-honeypot-system)
+### 🧲 [Honeypot System with NGFW](https://oluwafemiab.github.io/ajijola.github.io/projects/ngfw)
 
 - Integrated **Cowrie & Dionaea honeypots** with **IPFire NGFW**
 - Simulated Advanced Persistent Threat (APT) detection in a decoy environment
 - Used to study attacker behavior and design mitigation protocols
 
-### 📡 [Security Information and Event Management (SIEM) System](https://github.com/oluwafemiab/siem-wazuh)
+### 📡 [Security Information and Event Management (SIEM) System](https://oluwafemiab.github.io/ajijola.github.io/projects/siem-wazuh)
 
 - Setup Wazuh integrated with **ntopng** for network monitoring
 - Monitored and analyzed logs for anomaly detection
@@ -195,7 +195,7 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ## 🏆 Achievements
 
-- 🧠 [Created a cybersecurity training tool aligned with NCSC Cyber Essentials](https://github.com/oluwafemiab/cyberaware)
+- 🧠 [Created a cybersecurity training tool aligned with NCSC Cyber Essentials](https://oluwafemiab.github.io/ajijola.github.io/projects/cyberaware)
 - 🛡️ Deployed **ETA Talon System** securely at the College of Aviation, Zaria
 - 🔒 Upgraded servers at RAMFC with secure configuration and performance optimization
 
