@@ -1,11 +1,9 @@
 # 🛡️ Building a Honeypot System with a Next-Generation Firewall (NGFW)
 
 **Author:** Ajijola Oluwafemi Blessing  
-**Project Type:** Academic/Research  
-**Duration:** 2023–2024  
 **Tools Used:** Cowrie, Dionaea, IPFire, ELK Stack, Metasploit, Hydra, Kali Linux, Logstash, Elasticsearch, Kibana
 
----
+
 
 ## 🔍 Overview
 
@@ -106,7 +104,7 @@ All machines were isolated within a **virtual NAT environment** using VMware, wi
 
 ## 📎 GitHub Repository 
 
-> [🔗 Read more ](https://github.com/oluwafemiab/ngfw-honeypot-system)
+> [🔗 GitHub Deployment ](https://github.com/oluwafemiab/ngfw-honeypot-system)
 
 
 
