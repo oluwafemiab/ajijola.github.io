@@ -109,4 +109,4 @@ This project proved that **secure email systems are achievable** even for small 
 
 If you're interested in email security, PGP, or phishing simulations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ajijola-oluwafemi-ba839712a).
 
----
+  
