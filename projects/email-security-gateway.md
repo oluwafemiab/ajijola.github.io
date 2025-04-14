@@ -2,7 +2,7 @@
 
 This project demonstrates a multi-layered email security system built with open-source tools: **Axigen Mail Server**, **Proxmox Mail Gateway**, **Thunderbird**, **GoPhish**, and **PGP Encryption**. It simulates phishing attacks and uses encryption, filtering, and traffic inspection to protect communication channels.
 
----
+
 
 ## 📁 Repository Structure
 
@@ -25,7 +25,7 @@ email-security-gateway/
 │   ├── security-layers.png
 ```
 
----
+
 
 ## 🧠 Project Overview
 
@@ -36,13 +36,13 @@ email-security-gateway/
 | **Tools Used**         | Axigen, Proxmox Mail Gateway, Thunderbird, GoPhish, PGP, Wireshark      |
 | **Core Defenses**      | Email encryption (PGP), spam/phishing filters, malware detection        |
 
----
+
 
 ## 🧩 System Architecture
 
 ![System Architecture](screenshots/architecture-diagram.png)
 
----
+
 
 ## 🔐 PGP Encryption & Analysis
 
@@ -58,7 +58,7 @@ email-security-gateway/
 
 > 🔍 Wireshark clearly exposes unencrypted emails but fails to decode PGP-secured ones — proving encryption integrity.
 
----
+
 
 ## 🚨 Phishing Simulation (GoPhish)
 
@@ -69,17 +69,17 @@ email-security-gateway/
 - Proxmox identified spoofing, links, and attachments
 - Results analyzed and confirmed in dashboards
 
----
+
 
 ## 🛠 Tool Snapshots
 
 | Tool               | Screenshot |
 |--------------------|------------|
-| Axigen Mail Server | ![Axigen Config](screenshots/axigen-config.png) |
+| Axigen Mail Server | ![Axigen Config](https://github.com/oluwafemiab/ajijola.github.io/blob/main/projects/screenshots/axigen-config.png?raw=true) |
 | PMG Filters        | ![PMG Dashboard](screenshots/pmg-dashboard.png) |
 | Thunderbird + PGP  | ![Thunderbird](screenshots/thunderbird-pgp.png) |
 
----
+
 
 ## 🌐 Network Topology & Data Flow
 
@@ -90,7 +90,7 @@ Includes internal DNS, SMTP relay, phishing source, and traffic monitor.
 
 ![Network Topology Diagram](screenshots/network-topology.png)
 
----
+
 
 ### 📈 Data Flow Diagram
 
@@ -98,7 +98,7 @@ End-to-end secure email flow, from encryption to delivery, with filtering checkp
 
 ![Data Flow Diagram](screenshots/data-flow.png)
 
----
+
 
 ## 🌍 DNS Server Setup
 
@@ -118,7 +118,7 @@ TXT     | @axigenproject.com     | "v=spf1 mx -all"
 
 ![DNS Setup](screenshots/dns-setup.png)
 
----
+
 
 ## 🔐 Security Layer Design
 
@@ -134,7 +134,7 @@ Multi-layered security approach based on **Defense in Depth**.
 
 ![Security Layers Overview](screenshots/security-layers.png)
 
----
+
 
 ## ⚙️ Quick Setup Summary
 
@@ -144,7 +144,7 @@ Multi-layered security approach based on **Defense in Depth**.
 4. 🎯 Simulate phishing with **GoPhish**  
 5. 🔍 Capture and analyze email traffic using **Wireshark**
 
----
+
 
 ## 📊 Results
 
@@ -153,7 +153,7 @@ Multi-layered security approach based on **Defense in Depth**.
 ✅ **Mail relay and routing** successfully tested across the system  
 ✅ **Layered security** proved effective in blocking threats and protecting email integrity
 
----
+
 
 ## 📘 References
 
