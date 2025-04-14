@@ -127,7 +127,7 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - Integrated PGP email encryption, phishing simulation, and secure routing
 - Designed to help SMEs improve email security posture
 
-### 🛡️ [Comparative Honeypot Analysis](https://oluwafemiab.github.io/ajijola.github.io/projects/honeypot-compaison)
+### 🛡️ [Comparative Honeypot Analysis](https://oluwafemiab.github.io/ajijola.github.io/projects/honeypot-comparison)
 
 - Tools: **Heralding**, **MySQL-Honeypotd**, **HoneyDB**
 - Comparative study to evaluate logging efficiency, ease of deployment, and detection value
