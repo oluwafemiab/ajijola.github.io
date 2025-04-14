@@ -139,15 +139,6 @@ Access dashboard:
 
 
 
-## 📎 Screenshots (Optional)
-
-- [Wazuh MITRE Classification](#)  
-- [ntopng Traffic Heatmap](#)  
-- [Hydra Attack Logs](#)  
-- [Kibana Alert View](#)
-
-
-
 ## 🧠 Lessons Learned
 
 - Wazuh is flexible and powerful for alert correlation and endpoint monitoring  
