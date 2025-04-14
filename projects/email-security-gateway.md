@@ -1,8 +1,6 @@
 # ✉️ Developing a Secure Email Gateway with Axigen & PGP Encryption
 
 **Author:** Ajijola Oluwafemi Blessing  
-**Project Type:** Academic/Research  
-**Duration:** 2023–2024  
 **Tools Used:** Axigen Mail Server, PGP, GoPhish, Proxmox Mail Gateway, Thunderbolt, Swaks, SSL, VirtualBox
 
 
