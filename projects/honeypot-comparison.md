@@ -149,7 +149,7 @@ All traffic was isolated within a NAT environment using VMware Workstation.
 
 Running a comparative honeypot analysis deepened my understanding of attacker behavior, logging challenges, and tool configuration. It also helped highlight the trade-offs between ease of deployment and log richness. Combined with ELK, this setup acts as a strong foundation for threat detection labs and research-driven SOC training.
 
----
+
 
 ## 📬 Let’s Connect
 
